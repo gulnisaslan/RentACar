@@ -1,0 +1,29 @@
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig

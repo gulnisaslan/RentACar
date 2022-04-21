@@ -1,0 +1,33 @@
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\Business\bin\Debug\netstandard2.0\Business.deps.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\Business\bin\Debug\netstandard2.0\Business.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\Business\bin\Debug\netstandard2.0\Business.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\Business\obj\Debug\netstandard2.0\Business.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\Business\obj\Debug\netstandard2.0\Business.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\Business\bin\Debug\netstandard2.0\Core.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\Business\bin\Debug\netstandard2.0\Core.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\Business\obj\Debug\netstandard2.0\Business.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\Business\obj\Debug\netstandard2.0\Business.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\Business\bin\Debug\netstandard2.0\Business.deps.json
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\Business\bin\Debug\netstandard2.0\Business.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\Business\bin\Debug\netstandard2.0\Business.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\Business\bin\Debug\netstandard2.0\Core.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\Business\bin\Debug\netstandard2.0\Core.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.AssemblyReference.cache
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\Business\obj\Debug\netstandard2.0\Business.GeneratedMSBuildEditorConfig.editorconfig

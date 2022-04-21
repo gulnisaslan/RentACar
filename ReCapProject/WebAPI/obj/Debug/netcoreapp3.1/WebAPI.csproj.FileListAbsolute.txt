@@ -1,0 +1,151 @@
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Business.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Core.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Entities.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Business.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Core.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\gülnisaslan yazılım\yazılım\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Business.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Core.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Entities.dll
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Business.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Core.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+D:\gülnisaslanyazilim\yazilim\Camps\EnginDemirogKamp2021\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
